@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/kaushikvarmagithub/react-portfolio-2024/static/css/main.682190e4.css",
+    "main.js": "//github.com/kaushikvarmagithub/react-portfolio-2024/static/js/main.bc9da604.js",
+    "index.html": "//github.com/kaushikvarmagithub/react-portfolio-2024/index.html",
+    "main.682190e4.css.map": "//github.com/kaushikvarmagithub/react-portfolio-2024/static/css/main.682190e4.css.map",
+    "main.bc9da604.js.map": "//github.com/kaushikvarmagithub/react-portfolio-2024/static/js/main.bc9da604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.682190e4.css",
+    "static/js/main.bc9da604.js"
+  ]
+}
